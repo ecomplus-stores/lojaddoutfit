@@ -27,7 +27,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "news"
+      "sort": "slug"
     },
     {
       "type": "info-bar",
@@ -39,7 +39,7 @@
       "collection_id": "622161787963422eee2c0082:brands:MIZUNO:/mizuno",
       "sort": "slug",
       "title": "",
-      "headless": false,
+      "headless": true,
       "limit": 12,
       "page": 1
     },
