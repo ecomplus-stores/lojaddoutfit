@@ -14,9 +14,9 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "AJUDA & CONTATO",
     "phone_wpp": false,
-    "socials": false,
+    "socials": true,
     "email": false,
     "address": true
   },
