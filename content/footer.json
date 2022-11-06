@@ -15,7 +15,7 @@
   },
   "contacts": {
     "title": "AJUDA & CONTATO",
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": true,
     "email": false,
     "address": true
