@@ -3,18 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 1000
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -35,6 +23,18 @@
           "mobile_img": "/img/uploads/whatsapp-image-2022-11-06-at-14.28.05.jpeg"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 1000
     },
     {
       "type": "info-bar",
