@@ -1,8 +1,6 @@
 {
-  "sort_categories": [
-    "dior"
-  ],
-  "alphabetical_order": true,
-  "phone_wpp": true,
-  "socials": true
+  "sort_categories": [],
+  "alphabetical_order": false,
+  "phone_wpp": false,
+  "socials": false
 }
