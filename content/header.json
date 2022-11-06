@@ -15,8 +15,10 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 0,
+    "featured": [
+      "/dior?DIOR"
+    ],
+    "random": 1,
     "full_width": false
   },
   "desktop_megamenu": true,
