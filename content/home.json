@@ -31,17 +31,29 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
+      "collection_id": "622161787963422eee2c0082:brands:MIZUNO:/mizuno",
+      "sort": "slug",
       "title": "",
-      "headless": false,
+      "headless": true,
       "limit": 12,
       "page": 1
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "",
+      "description": ""
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 1000
     }
   ]
 }
