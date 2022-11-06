@@ -2,11 +2,15 @@
   "marketing_stripe": {
     "text": "Ofertas Exclusivas: Confira a seleção especial de descontos.",
     "link": "/promotion",
-    "background": "#ffffff",
-    "color": "#000000"
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "FAQ"
+      }
+    ],
     "phone_wpp": false,
     "socials": false
   },
