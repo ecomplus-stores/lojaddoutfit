@@ -13,8 +13,8 @@
     },
     {
       "type": "brand-retail",
-      "enabled": true,
-      "sort": "sales"
+      "enabled": false,
+      "sort": "slug"
     },
     {
       "type": "document-description",
