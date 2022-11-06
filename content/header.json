@@ -8,21 +8,19 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "FAQ"
+        "title": ""
       }
     ],
     "phone_wpp": false,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/dior?DIOR"
-    ],
-    "random": 1,
+    "featured": [],
+    "random": 0,
     "full_width": false
   },
-  "desktop_megamenu": true,
-  "search_input": true,
-  "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "desktop_megamenu": false,
+  "search_input": false,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }
