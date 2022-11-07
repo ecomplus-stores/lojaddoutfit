@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete Grátis SP, RJ, MG, ES, PR, SC, RS, GO, DF acima de R$ 549,00 Frete Grátis PE,PB, RN, MA, CE, PI, SE acima de R$ 899,99 Frete Grátis PA,AP acima de R$ 999,99",
     "title": "FRETE GRÁTIS"
   },
