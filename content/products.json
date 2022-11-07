@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "product-block",
-      "enabled": false,
+      "enabled": true,
       "size_guide": {
         "image": "",
         "title": ""
