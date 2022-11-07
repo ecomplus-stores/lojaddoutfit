@@ -3,14 +3,14 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "materia",
-    "custom": "_"
+    "bootswatch": "simplex",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojaddoutfit",
   "logo": "/img/uploads/logo.png",
   "name": "CROC BR - Novo Conceito De Moda ",
-  "short_name": "CROC",
+  "short_name": "CROC BR",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
