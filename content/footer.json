@@ -11,16 +11,12 @@
   "links_2": {
     "list_categories": false,
     "title": "",
-    "list": [
-      {
-        "text": "Nosso serviço de atendimento ao consumidor está disponível para atendê-lo de segunda a sexta-feira das 8h às 17h."
-      }
-    ]
+    "list": []
   },
   "contacts": {
-    "title": "AJUDA & CONTATO ",
+    "title": "AJUDA & CONTATO",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": false,
     "address": true
   },
