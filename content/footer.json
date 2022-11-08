@@ -4,12 +4,12 @@
     "text": "Nosso serviço de atendimento ao consumidor está disponível para atendê-lo de segunda a sexta-feira das 8h às 17h."
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "",
     "list": []
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "",
     "list": []
   },
@@ -20,9 +20,7 @@
     "email": false,
     "address": true
   },
-  "stamps": [
-    {}
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": true,
