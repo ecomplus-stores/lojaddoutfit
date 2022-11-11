@@ -1,5 +1,5 @@
 {
   "css": "<span class=\"js-minicart-count minicart-count l-absolute bg-green text-white text-center rounded is-empty \">\n        0\n    </span>",
-  "html_head": "<span class=\"js-minicart-count minicart-count l-absolute bg-green text-white text-center rounded is-empty \">\n        0\n    </span>",
+  "html_head": "<div data-myaccount-url=\"/br/authentication\" class=\"js-header-panel-btn js-myaccount-link  \" data-tag-id=\"loyaltyPanel.onLoginClick\">\n<svg role=\"presentation\" class=\"icon-svg  l-icon-margin\">\n<use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/on/demandware.static/Sites-BRECOM-Site/-/pt_BR/v1668129160659/img/svg/critical.svg#icon-my-account\"></use>\n</svg>\n</div>",
   "html_body": "<span class=\"js-minicart-count minicart-count l-absolute bg-green text-white text-center rounded is-empty \">\n        0\n    </span>"
 }
