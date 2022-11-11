@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "<span class=\"js-minicart-count minicart-count l-absolute bg-green text-white text-center rounded is-empty \">\n        0\n    </span>",
   "html_head": "<span class=\"js-minicart-count minicart-count l-absolute bg-green text-white text-center rounded is-empty \">\n        0\n    </span>",
   "html_body": ""
 }
