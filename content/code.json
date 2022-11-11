@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<button class=\"footer-reinsurance-item flex flex--col flex--justify-center flex--align-center js-popin-btn\" data-popin-content-id=\"popin-footer_reinsurance_payment\" data-popin-type=\"simple\" data-popin-ada-close=\"Fechar a caixa de diálogo\">\n<svg role=\"presentation\" class=\"icon-svg l-vmargin--xsmall\" aria-hidden=\"true\">\n<use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/on/demandware.static/Sites-BRECOM-Site/-/pt_BR/v1668129160659/img/svg/non-critical.svg#icon-lock\"></use>\n</svg>\nPAGAMENTO SEGURO\n</button>"
 }
