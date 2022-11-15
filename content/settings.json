@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "yeti",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Outfit",
   "favicon": "/img/uploads/logo.png",
-  "icons_font": "bootstrap-icons",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/logo.png",
