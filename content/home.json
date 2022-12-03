@@ -5,22 +5,22 @@
     {
       "type": "banner-slider",
       "autoplay": 10000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/images.jpg",
+          "img": "/img/uploads/gkpb-md-chefe-lacoste.jpg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/001.jpeg"
+          "mobile_img": "/img/uploads/images.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2022-11-06-at-11.26.23.jpeg",
+          "img": "/img/uploads/images.jpg",
           "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/001.jpeg"
+          "mobile_img": "/img/uploads/images.jpg"
         }
       ]
     },
