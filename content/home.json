@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 10000,
       "full_width": true,
       "slides": [
         {
@@ -37,7 +37,7 @@
       "title": "",
       "headless": true,
       "limit": 12,
-      "page": 1
+      "page": 2
     },
     {
       "type": "info-bar",
