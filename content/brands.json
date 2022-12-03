@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/32spm2409-407-tenis-lacoste-europa-sport-masc-branco-marinho-e-vermelho.jpg"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
