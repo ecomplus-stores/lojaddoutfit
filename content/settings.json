@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Outfit",
   "favicon": "/img/uploads/logo.png",
-  "icons_font": "_",
+  "icons_font": "feather-icons",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/logo.png",
