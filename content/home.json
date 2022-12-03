@@ -8,19 +8,19 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/download.jpg",
+          "img": "/img/uploads/stratstarter-desktop.avif",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/download.jpg"
+          "mobile_img": "/img/uploads/stratstarter-desktop.avif"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/download.jpg",
+          "img": "/img/uploads/stratstarter-desktop.avif",
           "alt": "",
-          "mobile_img": "/img/uploads/download.jpg"
+          "mobile_img": "/img/uploads/stratstarter-desktop.avif"
         }
       ]
     },
