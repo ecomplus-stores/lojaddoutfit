@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "yeti",
-    "custom": "clean-white"
+    "bootswatch": "simplex",
+    "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojaddoutfit",
