@@ -4,7 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/download.jpg"
+      "img": "/img/uploads/stratstarter-desktop.avif",
+      "mobile_img": "/img/uploads/stratstarter-desktop.avif"
     },
     {
       "type": "banner-slider",
