@@ -25,6 +25,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "![CALÇADOS](/img/uploads/lacoste-homepage-holiday-calcados.jpg)"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
