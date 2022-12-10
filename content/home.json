@@ -16,13 +16,15 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/lacoste-homepage-holiday-calcados.jpg",
-          "mobile_img": "/img/uploads/lacoste-homepage-holiday-calcados.jpg"
+          "mobile_img": "/img/uploads/lacoste-homepage-holiday-calcados.jpg",
+          "alt": "CALÇADOS"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/001.jpeg",
-          "mobile_img": "/img/uploads/001.jpeg"
+          "mobile_img": "/img/uploads/001.jpeg",
+          "alt": "POLOS"
         }
       ]
     },
