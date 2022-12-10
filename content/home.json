@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/download.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
