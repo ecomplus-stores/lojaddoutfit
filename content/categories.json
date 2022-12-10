@@ -1,10 +1,6 @@
 {
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "![CALÇADOS](/img/uploads/lacoste-homepage-holiday-calcados.jpg)"
-    },
-    {
       "type": "document-banner",
       "enabled": true
     },
