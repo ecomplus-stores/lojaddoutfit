@@ -3,35 +3,13 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "img": "/img/uploads/stratstarter-desktop.avif",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/stratstarter-desktop.avif"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/stratstarter-desktop.avif",
-          "alt": "",
-          "mobile_img": "/img/uploads/stratstarter-desktop.avif"
-        }
-      ]
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "slug"
     },
     {
       "type": "custom-content",
       "markdown": "![CALÇADOS](/img/uploads/lacoste-homepage-holiday-calcados.jpg)"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "slug"
     },
     {
       "type": "collection-shelf",
