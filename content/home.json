@@ -7,13 +7,28 @@
       "img": "/img/uploads/download.jpg"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/lacoste-homepage-holiday-calcados.jpg",
+          "mobile_img": "/img/uploads/lacoste-homepage-holiday-calcados.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/001.jpeg",
+          "mobile_img": "/img/uploads/001.jpeg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "![CALÇADOS](/img/uploads/lacoste-homepage-holiday-calcados.jpg)"
     },
     {
       "type": "collection-shelf",
