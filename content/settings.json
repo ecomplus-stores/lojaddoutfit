@@ -4,7 +4,7 @@
   "primary_color": "#000000",
   "theme": {
     "bootswatch": "simplex",
-    "custom": "clean-gray"
+    "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojaddoutfit",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Outfit",
+  "font_family": "_",
   "favicon": "/img/uploads/logo.png",
   "icons_font": "feather-icons",
   "country_code": "BR",
