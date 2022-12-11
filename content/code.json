@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "product-card section {\nborder: 2px solid #ccc;\npadding: 10px",
   "html_head": "",
   "html_body": ""
 }
