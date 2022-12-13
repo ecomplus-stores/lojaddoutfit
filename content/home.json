@@ -8,6 +8,21 @@
       "mobile_img": "/img/uploads/gkpb-md-chefe-lacoste.jpg"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/lacoste-homepage-holiday-calcados.jpg"
+        },
+        {
+          "img": "/img/uploads/images.jpg"
+        }
+      ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
@@ -21,10 +36,6 @@
       "headless": true,
       "limit": 15,
       "page": 24
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
