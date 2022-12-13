@@ -8,30 +8,6 @@
       "mobile_img": "/img/uploads/gkpb-md-chefe-lacoste.jpg"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/images.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/lacoste-homepage-holiday-calcados.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/001.jpeg",
-          "alt": "POLOS",
-          "link": "POLOS"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
