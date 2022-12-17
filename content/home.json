@@ -8,6 +8,23 @@
       "mobile_img": "/img/uploads/gkpb-md-chefe-lacoste.jpg"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/5c709908-1f59-4a1c-abf2-2922d0434546.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/001.jpeg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -25,23 +42,6 @@
       "headless": true,
       "limit": 15,
       "page": 24
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/5c709908-1f59-4a1c-abf2-2922d0434546.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/001.jpeg"
-        }
-      ]
     }
   ]
 }
