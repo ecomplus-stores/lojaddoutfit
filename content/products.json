@@ -10,7 +10,7 @@
     },
     {
       "type": "breadcrumbs",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "related-products",
