@@ -3,9 +3,16 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/gkpb-md-chefe-lacoste.jpg",
-      "mobile_img": "/img/uploads/gkpb-md-chefe-lacoste.jpg"
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/download.jpg"
+        }
+      ]
     },
     {
       "type": "banner-slider",
