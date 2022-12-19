@@ -23,7 +23,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/5c709908-1f59-4a1c-abf2-2922d0434546.jpeg"
+          "img": "/img/uploads/5c709908-1f59-4a1c-abf2-2922d0434546.jpeg",
+          "alt": "/calçados"
         },
         {
           "start": "",
@@ -40,16 +41,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "622161787963422eee2c0082:brands:MIZUNO:/mizuno",
-      "sort": "slug",
-      "title": "",
-      "headless": true,
-      "limit": 15,
-      "page": 24
     }
   ]
 }
