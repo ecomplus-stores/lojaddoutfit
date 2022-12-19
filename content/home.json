@@ -24,7 +24,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/5c709908-1f59-4a1c-abf2-2922d0434546.jpeg",
-          "alt": "/calçados"
+          "alt": "/calçados",
+          "link": "/calçados"
         },
         {
           "start": "",
@@ -36,11 +37,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "slug"
     }
   ]
 }
