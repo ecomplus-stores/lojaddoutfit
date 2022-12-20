@@ -44,6 +44,10 @@
       "limit": 12,
       "page": 1,
       "headless": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
