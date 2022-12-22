@@ -43,11 +43,13 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "headless": true
+      "headless": true,
+      "sort": "slug"
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true
+      "load_more": true,
+      "sort": "slug"
     }
   ]
 }
