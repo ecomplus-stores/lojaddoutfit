@@ -19,20 +19,7 @@
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/5c709908-1f59-4a1c-abf2-2922d0434546.jpeg",
-          "alt": "/calçados",
-          "link": "https://croclandia.com.br/calcados"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/001.jpeg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
