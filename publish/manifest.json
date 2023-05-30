@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6b69d0a21f1321731550bea53a8705ff.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.21e69af114fa22abcfd192a41e6fb8d0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.342266325596feef74c4ec828e7b0aae.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.bd27dc2245f8fc8f6aabe16b330021f0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.519d618140a29a7d714f5322bcf2ab33.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "CROC BR - Novo Conceito De Moda ",
+  "short_name": "CROC BR",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "CROC BR - Novo Conceito De Moda ",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
